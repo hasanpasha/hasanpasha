@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I host my low quality codes here nothing special, hope I will get better in using this magic 
+## I upload my low quality codes here nothing special, hope I will get better in using this magic 
 <!--
 **hasanpasha/hasanpasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
